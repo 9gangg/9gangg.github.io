@@ -1,1 +1,0 @@
-No Content: https://knives.rip/cosmin/static/js/protect.js
