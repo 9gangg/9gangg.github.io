@@ -110,17 +110,17 @@ body{
     position:absolute
 }
 a:link {
-  color: #09ff00;
+  color: #FFFFFF;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: #09ff00;
+  color: #FFFFFF;
   background-color: transparent;
   text-decoration: underline;
 }
 a:visited {
-  color: #09ff00;
+  color: #FFFFFF;
   background-color: transparent;
   text-decoration: none;
 }
@@ -239,7 +239,7 @@ h4{
 }
 
 h1, h2, h3, h4 {
-    color: #09ff00;
+    color: #FFFFFF;
 }
 
 .sub {
