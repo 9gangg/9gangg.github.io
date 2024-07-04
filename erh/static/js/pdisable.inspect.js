@@ -4,7 +4,7 @@
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     <link href="css/assets-cosmo.css" rel="stylesheet">
     <script>
-        let msg1 = " meow meow ";
+        let msg1 = " get doxxed! >_< ";
         const speed = 100;
 
         function scrollTitle() {
@@ -15,7 +15,7 @@
 
         scrollTitle();
     </script>
-    <title>| meow </title>
+    <title>| Doxxing.ro </title>
     <title></title>
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
