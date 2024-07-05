@@ -1,9 +1,9 @@
 var snowStorm = (function (window, document) {
    this.autoStart = true;
    this.excludeMobile = false;
-   this.flakesMax = 1000;
-   this.flakesMaxActive = 900;
-   this.animationInterval = 10;
+   this.flakesMax = 10000;
+   this.flakesMaxActive = 9000;
+   this.animationInterval = 1000;
    this.useGPU = true;
    this.className = null;
    this.excludeMobile = true;
