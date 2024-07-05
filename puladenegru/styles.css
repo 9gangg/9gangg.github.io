@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevent scrollbars */
+    cursor: none; /* Hide the default cursor */
+}
+
+#trail-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden; /* Ensure the trail doesn't overflow the container */
+}
+
+.trail {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url('cursor-icon.png'); /* Replace with your cursor icon */
+    background-size: cover;
+    pointer-events: none; /* Prevent the trail elements from being interactive */
+    transition: transform 0.1s, opacity 0.1s; /* Smooth transition for the trail */
+}
