@@ -109,7 +109,7 @@ body {
   }
 
   to {
-    opacity: 0;
+    opacity: 1;
   }
 }
 
@@ -132,7 +132,7 @@ body {
   }
 
   to {
-    opacity: 0;
+    opacity: 1;
   }
 }
 
