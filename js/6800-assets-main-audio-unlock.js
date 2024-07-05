@@ -1,6 +1,6 @@
 (() => {
 
-    let text = "would you like to enter doxxing.ro?"
+    let text = "would you like to enter hell?"
 
     let elem = document.getElementById("enter-type-in")
     let i = 0
